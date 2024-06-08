@@ -26,6 +26,8 @@ sudo apt-get update
 sudo apt-get install -y python3-pip apt-transport-https kubectl
 ```
 
+### if any issue with above command while installing KUBECTL, then follow below link https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/ 
+
 ```
 pip3 install awscli --upgrade
 ```
